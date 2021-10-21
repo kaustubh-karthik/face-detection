@@ -1,0 +1,4 @@
+sk
+../testing_utils.py
+rm 'face_detection/__pycache__/face_detection_utils.cpython-38.pyc'
+__pycache__/
